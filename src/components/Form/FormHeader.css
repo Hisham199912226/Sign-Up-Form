@@ -1,0 +1,10 @@
+.form-header{
+    background: #e3efed;
+    text-align: center;
+    height: 1;
+    font-family: 'Palatino','Times New Roman', Times, serif;
+    font-size: 26px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #e2e5e5;
+}

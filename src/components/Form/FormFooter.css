@@ -1,0 +1,19 @@
+.form-footer{
+    height: 80px;
+    width: 100%;
+    background: #e3efed;
+    position: relative;
+}
+
+
+
+.form-footer .sign-up-button{
+    top: 30%;
+    left: 60%;
+    padding: 8px 20px;
+    position: absolute;
+    background: #53b4df;
+    border: none;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
